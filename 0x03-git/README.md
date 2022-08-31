@@ -1,2 +1,1 @@
-“My second commit”
-"Programming is intriguing"
+“My second commit updated"
